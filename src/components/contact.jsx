@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 export class Contact extends Component {
 
-  handleSubmit(e){
+  handleSubmit(e) {
     e.preventDefault()
     console.log("sent")
   }
@@ -48,6 +48,16 @@ export class Contact extends Component {
                     </div>
                   </div>
                   <div className="form-group">
+                    <input
+                      type="text"
+                      id="subject"
+                      className="form-control"
+                      placeholder="Subject"
+                      required="required"
+                    />
+                    <p className="help-block text-danger"></p>
+                  </div>
+                  <div className="form-group">
                     <textarea
                       name="message"
                       id="message"
@@ -68,14 +78,15 @@ export class Contact extends Component {
             <div className="col-md-3 col-md-offset-1 contact-info">
               <div className="contact-item">
                 <h3>Contact Info</h3>
-                
               </div>
               <div className="contact-item">
                 <p>
                   <span>
                     <i className="fa fa-phone"></i> Phone
                   </span>{" "}
-                  {this.props.data ? this.props.data.phone : "loading"}
+                  <a href="tel:210-245-9879" style={{ color: "white" }}> <u>{this.props.data ? this.props.data.phone : "loading"}</u>
+                  </a>
+
                 </p>
               </div>
               <div className="contact-item">
@@ -83,10 +94,14 @@ export class Contact extends Component {
                   <span>
                     <i className="fa fa-envelope-o"></i> Email
                   </span>{" "}
-                  {this.props.data ? this.props.data.email : "loading"}
+                  <a href="mailto:info@alltrasound.com" style={{ color: "white" }}><u>{this.props.data ? this.props.data.email : "loading"}</u></a>
+
                 </p>
               </div>
+
+
             </div>
+
             {/*--------------------- Social Media -----------------------
             <div className="col-md-12">
               <div className="row">
@@ -119,10 +134,10 @@ export class Contact extends Component {
         <div id="footer">
           <div className="container text-center">
             <p>
-              ALLtrasound &copy; 2021 
+              ALLtrasound &copy; 2021
             </p>
           </div>
-        </div>    
+        </div>
       </div>
     );
   }
