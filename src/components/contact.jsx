@@ -1,6 +1,11 @@
 import React, { Component } from "react";
 
 export class Contact extends Component {
+
+  handleSubmit(e){
+    e.preventDefault()
+    console.log("sent")
+  }
   render() {
     return (
       <div>
@@ -15,7 +20,7 @@ export class Contact extends Component {
                     will get back to you as soon as possible.
                   </p>
                 </div>
-                <form name="sentMessage" id="contactForm" noValidate>
+                <form name="sentMessage" id="contactForm" onSubmit={this.handleSubmit.bind(this)} noValidate>
                   <div className="row">
                     <div className="col-md-6">
                       <div className="form-group">
@@ -63,12 +68,7 @@ export class Contact extends Component {
             <div className="col-md-3 col-md-offset-1 contact-info">
               <div className="contact-item">
                 <h3>Contact Info</h3>
-                <p>
-                  <span>
-                    <i className="fa fa-map-marker"></i> Address
-                  </span>
-                  {this.props.data ? this.props.data.address : "loading"}
-                </p>
+                
               </div>
               <div className="contact-item">
                 <p>
@@ -87,6 +87,7 @@ export class Contact extends Component {
                 </p>
               </div>
             </div>
+            {/*--------------------- Social Media -----------------------
             <div className="col-md-12">
               <div className="row">
                 <div className="social">
@@ -111,19 +112,17 @@ export class Contact extends Component {
                   </ul>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
+
         <div id="footer">
           <div className="container text-center">
             <p>
-              &copy; 2020 Issaaf Kattan React Land Page Template. Design by{" "}
-              <a href="http://www.templatewire.com" rel="nofollow">
-                TemplateWire
-              </a>
+              ALLtrasound &copy; 2021 
             </p>
           </div>
-        </div>
+        </div>    
       </div>
     );
   }

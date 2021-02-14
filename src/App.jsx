@@ -6,7 +6,7 @@ import About from './components/about';
 import Services from './components/services';
 import Gallery from './components/gallery';
 import Testimonials from './components/testimonials';
-import Team from './components/Team';
+
 import Contact from './components/contact';
 import JsonData from './data/data.json';
 
@@ -31,8 +31,7 @@ export class App extends Component {
         <About data={this.state.landingPageData.About} />
         <Services data={this.state.landingPageData.Services} />
         <Gallery />
-        <Testimonials data={this.state.landingPageData.Testimonials} />
-        <Team data={this.state.landingPageData.Team} />
+        {/*<Testimonials data={this.state.landingPageData.Testimonials} />*/}
         <Contact data={this.state.landingPageData.Contact} />
       </div>
     )

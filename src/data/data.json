@@ -1,135 +1,87 @@
 {
     "Header": {
         "title": "Ultrasound for All",
-        "paragraph": "Providing general, vascular, and OBGYN ultrasound"
+        "paragraph": "Providing general, vascular, and OB/GYN ultrasound exams.   We do it ALL."
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "ALLtrasound provides fast, convenient, affordable mobile ultrasound exams for medical offices and the public.  Our multiple licensed sonographers can be scheduled within (24) hours to conduct on-site scans at your location.",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "lowest price garanteed",
+            "convenient schedules",
+            "quick results",
+            "quality exams"
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "highly experienced sonographers",
+            "excellent customer service"
         ]
     },
     "Services": [{
             "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "image": "img/services/generalIcon.png",
+            "name": "General Ultrasound Exams",
+            "text": "General ultrasound exam study abdominal organs which mostly include liver, gallbladder, pancrease, kidneys, spleen, etc. This exam is usually ordered due to patient have stomach pain, feeling nausea and vomiting, or back pain. "
         },
         {
             "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "image": "img/services/veinsIcon.png",
+            "name": "Vascular Ultrasound Exams",
+            "text": "vascular exams include carotid exam on the neck, both legs of veins and /or arteries.  These exams usually ordered by doctors due to patient had a stroke or dissiness, both legs or arms feel pain, swelling, numbness, etc"
         },
         {
             "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "image": "img/services/babyIcon.png",
+            "name": "Obstetric/GYN Ultrasound Exams ",
+            "text": "Obstetric (OB) exams provides pregnancy information about the fetus.  It includes first, second, third trimester exams.  Each one is different with baby growth and well-being.  Both patient and doctors can order this exam if they have a concern about the baby.  GYN exams concerntrate on female organs: uterus and overies  "
         },
         {
             "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "image": "img/services/thyroid.png",
+            "name": "Small Parts Ultrasound Exams",
+            "text": "Small parts study includes thyroid on the lower neck and male testicular study which is located in the scrotum between the legs.  Most time, doctors order thyroid study due to your abnormal blood work or felt a lump on your neck.  Testicular study usually is ordered due to pain and swelling in the testicle or felt something in the scrotum."
         }
-
-
     ],
     "Testimonials": [{
-            "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "img": "img/testimonials/06.jpg",
+            "text": "\"ALLtrasound staff did an excellent exam at my own home, I feel so comfortable during the exam.  And I got the result really quick.  And it is very affordable.  I am amazed with their service at a minimum price. " ,
+            "name": "Denise, Jackson"
         },
-        {
-            "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
+        
         {
             "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\"I had a horrible stomach pain and thought I had gall stones.  I went on line find ALLtrasound and they scheduled me right away.  I got taken care and got my result quickly.  I am so thankful that ALLtrasound can take care of me without going to hospital spending lots money  .\"",
+            "name": "Loren Smith"
         }
     ],
-    "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
-        },
-        {
-            "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
-        }, {
-            "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
-        },
-        {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
-        }
-    ],
+    
+
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
+        "phone": "210-245-9879",
+        "email": "info@Alltrasound.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",
         "youtube": "youtube.com"
     },
     "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-dollar",
+            "title": "Affordable price",
+            "text": "We are committed to providing great value. Our service has the lowest self-pay rates in the area, helping you afford the care you need even without insurance or with a high-deductible plan.   "
         },
         {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-fast-forward",
+            "title": "Fast process",
+            "text": "At ALLtrasound, we focus on patients and value their time and health .  We can see patients at their ealiest convenient time possible.  Formal result will be given the same day.  Very efficient study time and proces." 
         },
         {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-home",
+            "title": "Comfortable exam",
+            "text": "This service provides the most convenient and comfortable exams for patient either at their own doctor's office or their own home.  Patient felt at ease and relaxed with a familar surrounding."
         },
         {
             "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Quality study",
+            "text": "With our highly experienced and multi-registered sonographers, ALLtrasound provides the highest quality service with accurate, thorough, and knowledgeable minds."
         }
     ]
 }
