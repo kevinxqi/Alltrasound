@@ -80,7 +80,7 @@ const Contact = (props) => {
                 <div className="section-title">
                   <h2>Get In Touch</h2>
                   <p>
-                    Please fill out the form below to send us an email and we will get back to you as soon as possible.
+                    If you are interested in our ultrasound services or would like to schedule an appointment, please fill out the form below and we will contact you shortly.
                   </p>
                 </div>
                 <form

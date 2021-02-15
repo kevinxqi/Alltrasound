@@ -8,7 +8,7 @@ export class Services extends Component {
           <div className="section-title">
             <h2>Our Services  </h2>
             <p>
-              We provide general, vascular, OBGYN, and small part ultrasound exams for clinics or in the comfort of your home.
+              We provide general, vascular, OBGYN, and small parts ultrasound exams in clinics or in the comfort of your home.
             </p>
           </div>
           <div className="row">

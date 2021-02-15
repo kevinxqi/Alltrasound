@@ -2,60 +2,58 @@
     "Header": {
         "title": "Alltrasound for All",
         "paragraph": "Providing general, vascular, and OB/GYN ultrasound exams.   We do it ALL."
-
     },
     "About": {
-        "paragraph": "ALLtrasound provides fast, convenient, affordable mobile ultrasound exams for medical offices and the public.  Our multiple licensed sonographers can be scheduled within (24) hours to conduct on-site scans at your location.",
+        "paragraph": "We provide fast, convenient, and affordable mobile ultrasound exams for medical offices and the public.  Our multiple licensed sonographers can be scheduled within 24-hours to conduct on-site scans at your location.",
         "Why": [
-            "lowest price garanteed",
-            "convenient schedules",
-            "quick results",
-            "quality exams"
+            "Lowest price guaranteed",
+            "Convenient schedules",
+            "Quick results",
+            "Quality exams"
         ],
         "Why2": [
-            "highly experienced sonographers",
-            "excellent customer service"
+            "Highly experienced sonographers",
+            "Excellent customer service"
         ]
     },
-    "Services": [{
+    "Services": [
+        {
             "icon": "fa fa-wordpress",
             "image": "img/services/generalIcon.png",
             "name": "General Ultrasound Exams",
-            "text": "General ultrasound exam study abdominal organs which mostly include liver, gallbladder, pancrease, kidneys, spleen, etc. This exam is usually ordered due to patient have stomach pain, feeling nausea and vomiting, or back pain. "
+            "text": "General ultrasound exams evaluate abdominal organs which mostly include liver, gallbladder, pancreas, kidneys, spleen, aorta, etc. Patients have this study usually due to stomach pain, nausea, vomiting, back pain, or abnormal blood work. "
         },
         {
             "icon": "fa fa-cart-arrow-down",
             "image": "img/services/veinsIcon.png",
             "name": "Vascular Ultrasound Exams",
-            "text": "vascular exams include carotid exam on the neck, both legs of veins and /or arteries.  These exams usually ordered by doctors due to patient had a stroke or dissiness, both legs or arms feel pain, swelling, numbness, etc"
+            "text": "Vascular exams evaluate the major vessels in our body: Carotid arteries (on the neck), legs and arms (extremities). These studies investigate blockage of the vessels which may be related to symptoms of pain, swelling, and numbness, etc."
         },
         {
             "icon": "fa fa-cloud-download",
             "image": "img/services/babyIcon.png",
             "name": "Obstetric/GYN Ultrasound Exams ",
-            "text": "Obstetric (OB) exams provides pregnancy information about the fetus.  It includes first, second, third trimester exams.  Each one is different with baby growth and well-being.  Both patient and doctors can order this exam if they have a concern about the baby.  GYN exams concerntrate on female organs: uterus and overies  "
+            "text": "Obstetric (OB) exams provide pregnancy information about the fetus. It includes first, second, third trimester exams. Each one is different with baby growth and well-being. GYN exams concerntrate on female organs: uterus and overies."
         },
         {
             "icon": "fa fa-language",
             "image": "img/services/thyroid.png",
             "name": "Small Parts Ultrasound Exams",
-            "text": "Small parts study includes thyroid on the lower neck and male testicular study which is located in the scrotum between the legs.  Most time, doctors order thyroid study due to your abnormal blood work or felt a lump on your neck.  Testicular study usually is ordered due to pain and swelling in the testicle or felt something in the scrotum."
+            "text": "Small parts studies evaluate superficial organs including thyroid, lymph nodes, male testicles, etc. Testicular studies are usually ordered due to pain and swelling in the testicle or abnormal feeling in the scrotum."
         }
     ],
-    "Testimonials": [{
+    "Testimonials": [
+        {
             "img": "img/testimonials/06.jpg",
-            "text": "\"ALLtrasound staff did an excellent exam at my own home, I feel so comfortable during the exam.  And I got the result really quick.  And it is very affordable.  I am amazed with their service at a minimum price. " ,
+            "text": "\"ALLtrasound staff did an excellent exam at my own home, I feel so comfortable during the exam.  And I got the result really quick.  And it is very affordable.  I am amazed with their service at a minimum price. ",
             "name": "Denise, Jackson"
         },
-        
         {
             "img": "img/testimonials/06.jpg",
             "text": "\"I had a horrible stomach pain and thought I had gall stones.  I went on line find ALLtrasound and they scheduled me right away.  I got taken care and got my result quickly.  I am so thankful that ALLtrasound can take care of me without going to hospital spending lots money  .\"",
             "name": "Loren Smith"
         }
     ],
-    
-
     "Contact": {
         "phone": "210-245-9879",
         "email": "info@Alltrasound.com",
@@ -63,25 +61,26 @@
         "twitter": "twitter.com",
         "youtube": "youtube.com"
     },
-    "Features": [{
+    "Features": [
+        {
             "icon": "fa fa-dollar",
             "title": "Affordable price",
-            "text": "We are committed to providing great value. Our service has the lowest self-pay rates in the area, helping you afford the care you need even without insurance or with a high-deductible plan.   "
+            "text": "We are committed to providing great value. Our service has the lowest prices in the area, helping you afford the care you need even without insurance or with a high-deductible plan.   "
         },
         {
             "icon": "fa fa-fast-forward",
             "title": "Fast process",
-            "text": "At ALLtrasound, we focus on patients and value their time and health .  We can see patients at their ealiest convenient time possible.  Formal result will be given the same day.  Very efficient study time and proces." 
+            "text": "At Alltrasound, we focus on patients and value your time and health. We are flexible with scheduling and can see you at your earliest convenience. Formal results can be given the same day."
         },
         {
             "icon": "fa fa-home",
             "title": "Comfortable exam",
-            "text": "This service provides the most convenient and comfortable exams for patient either at their own doctor's office or their own home.  Patient felt at ease and relaxed with a familar surrounding."
+            "text": "This service provides the most convenient and comfortable exams for patients either at your doctor's office or your home. You will feel more at ease and relaxed with familiar surroundings."
         },
         {
             "icon": "fa fa-magic",
             "title": "Quality study",
-            "text": "With our highly experienced and multi-registered sonographers, ALLtrasound provides the highest quality service with accurate, thorough, and knowledgeable minds."
+            "text": "With our highly experienced and multi-registered sonographers, Alltrasound provides the highest quality service with accurate, thorough, and knowledgeable staff."
         }
     ]
 }
