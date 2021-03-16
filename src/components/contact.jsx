@@ -216,20 +216,21 @@ const Contact = (props) => {
             </div>
           </div>
 
-          {/*--------------------- Social Media -----------------------
+          
             <div className="col-md-12">
               <div className="row">
                 <div className="social">
                   <ul>
                     <li>
                       <a
-                        href={.props.data ? .props.data.facebook : "/"}
+                        href={props.data ? props.data.facebook : "/"}
                       >
                         <i className="fa fa-facebook"></i>
                       </a>
                     </li>
+                    {/*
                     <li>
-                      <a href={.props.data ? .props.data.twitter : "/"}>
+                      <a href={props.data ? props.data.twitter : "/"}>
                         <i className="fa fa-twitter"></i>
                       </a>
                     </li>
@@ -238,10 +239,11 @@ const Contact = (props) => {
                         <i className="fa fa-youtube"></i>
                       </a>
                     </li>
+                    */}
                   </ul>
                 </div>
               </div>
-            </div> */}
+            </div> 
         </div>
       </div>
 
